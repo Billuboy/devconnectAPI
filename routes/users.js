@@ -9,7 +9,7 @@ const User = require('../models/user');
 const Validate = require('../validations/user');
 
 // @route   GET api/user/users
-// @desc    Get all users
+// @desc    Get current logged-in user
 // @access  Private
 router.get(
   '/users',
