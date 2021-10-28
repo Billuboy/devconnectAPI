@@ -2,7 +2,7 @@
 _Fully Functional Express API for DevConnect with input validation and JWT Authentication._
 
 ## TechStack Used
-<a href="https://nodejs.org" target="blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/></a>
 
 ## NPM Packages Used
 1. **ExpressJS** - Nodejs Framework for creating HTTP request listener
