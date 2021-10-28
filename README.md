@@ -1,7 +1,7 @@
 # API for DevConnect
 _Fully Functional Express API for DevConnect with input validation and JWT Authentication._
 
-## TechStack Used
+## NPM Packages Used
 1. **ExpressJS** - Nodejs Framework for creating HTTP request listener
 2. **MongoDB** - Database for storing data
 3. **PassportJS** - Nodejs Framework for implementing authentication 
