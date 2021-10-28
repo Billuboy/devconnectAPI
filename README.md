@@ -15,9 +15,10 @@ _Fully Functional Express API for DevConnect with input validation and JWT Authe
 ## Quick start
 
 1. Clone this repository
-2. `npm install` or `yarn install` in the project root folder on local
+2. `npm install` or `yarn install` in the project root folder on local.
 3. Put your MongoDB URI and JWT secret inside of `/config/keys_dev.js`.
-4. `npm run server` or `yarn server` to start the API on localhost at port 3001
+4. `npm run server` or `yarn server` to start the API on localhost at port 3001.
+5. Test endpoints with Postman or ThunderClient.
 
 ## Routes
 
