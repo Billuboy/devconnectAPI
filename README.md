@@ -1,6 +1,11 @@
 # API for DevConnect
 _Fully Functional Express API for DevConnect with input validation and JWT Authentication._
 
+## TechStack Used
+1. **ExpressJS** - Nodejs Framework for creating HTTP request listener
+2. **MongoDB** - Database for storing data
+3. **PassportJS** - Nodejs Framework for implementing authentication 
+
 ## Platform Requriements
 
 1. Latest version of Nodejs LTS
@@ -16,10 +21,10 @@ _Fully Functional Express API for DevConnect with input validation and JWT Authe
 ## Routes
 
 #### User Routes
-_These routes handle all the functionalities related to authentication._
+  _These routes handle all the functionalities related to authentication._
 
 #### Profile Routes
-_These routes handle all the functionalities related to profile._
+  _These routes handle all the functionalities related to profile._
 
 #### Post Routes
-_Thess routes handle all the functionailties related to post. _
+  _Thess routes handle all the functionailties related to post._
