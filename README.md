@@ -2,7 +2,7 @@
 _Fully Functional Express API for DevConnect with input validation and JWT Authentication._
 
 ## TechStack Used
-<a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/></a> <a href="https://mongodb.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="node" width="40" height="40"/></a> 
 
 ## Platform Requriements
 
@@ -11,9 +11,10 @@ _Fully Functional Express API for DevConnect with input validation and JWT Authe
 
 ## NPM Packages Used
 1. **ExpressJS** - Nodejs Framework for creating HTTP request listener
-2. **MongoDB** - Database for storing data
-3. **PassportJS** - Nodejs Framework for implementing authentication 
-4. **Joi** - For data validation
+2. **Nodemon** - For restarting server everytime a file changes
+3. **MongoDB** - Database for storing data
+4. **PassportJS** - Nodejs Framework for implementing authentication 
+5. **Joi** - For data validation
 
 ## Quick start
 
