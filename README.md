@@ -5,6 +5,7 @@ _Fully Functional Express API for DevConnect with input validation and JWT Authe
 1. **ExpressJS** - Nodejs Framework for creating HTTP request listener
 2. **MongoDB** - Database for storing data
 3. **PassportJS** - Nodejs Framework for implementing authentication 
+4. **Joi** - For data validation
 
 ## Platform Requriements
 
